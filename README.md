@@ -1,5 +1,5 @@
 # Meetings - repository
-This repository contains presentations and codes used during MLGdansk meetings.
+This repository contains presentations, codes and supplementary articles used during MLGdańsk meetings.
 
 
 # MLGdańsk
